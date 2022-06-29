@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Imc
 {
-    public partial class Form1 : Form
+    public partial class lblStatus : Form
     {
-        public Form1()
+        public lblStatus()
         {
             InitializeComponent();
         }
@@ -43,38 +43,53 @@ namespace Imc
 
             if (resultado <= 18.5)
             {
-                lblPeso.Text = resultado.ToString();
-                lblAltura.Text = "abaixo do peso";
+                lblImc.Text = resultado.ToString();
+                lblResultados.Text = "abaixo do peso";
 
             }
             else if (resultado > 18.5 && resultado <= 24.9)
             {
-                lblPeso.Text = resultado.ToString();
-                lblAltura.Text = "peso ideal";
+                lblImc.Text = resultado.ToString();
+                lblResultados.Text = "peso ideal";
             }
             else if (resultado > 25 && resultado <= 29.9)
             {
-                lblPeso.Text = resultado.ToString();
-                lblAltura.Text = "levemente acima do peso";
+                lblImc.Text = resultado.ToString();
+                lblResultados.Text = "levemente acima do peso";
             }
             else if (resultado > 30 && resultado <= 34.9)
             {
-                lblPeso.Text = resultado.ToString();
-                lblAltura.Text = "obesidade primeiro grau";
+                lblImc.Text = resultado.ToString();
+                lblResultados.Text = "obesidade primeiro grau";
             }
             else if (resultado < 35 && resultado <= 39.9)
             {
-                lblPeso.Text = resultado.ToString();
-                lblAltura.Text = "obesidade segundo grau (severa)";
+                lblImc.Text = resultado.ToString();
+                lblResultados.Text = "obesidade segundo grau (severa)";
             }
             else
             {
-                lblPeso.Text = resultado.ToString();
-                lblAltura.Text = "obesidade terceiro grau(mórbida)";
+                lblImc.Text = resultado.ToString();
+                lblResultados.Text = "obesidade terceiro grau(mórbida)";
             }
 
 
 
+
+        }
+
+        private void lblImc_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblResultado_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblResultados_Click(object sender, EventArgs e)
+        {
 
         }
     }

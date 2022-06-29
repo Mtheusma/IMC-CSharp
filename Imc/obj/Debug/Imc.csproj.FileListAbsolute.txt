@@ -1,0 +1,11 @@
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\bin\Debug\Imc.exe.config
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\bin\Debug\Imc.exe
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\bin\Debug\Imc.pdb
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.csproj.AssemblyReference.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.Properties.Resources.resources
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.csproj.GenerateResource.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.csproj.CoreCompileInputs.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.exe
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.pdb
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\Imc\Imc\obj\Debug\Imc.lblStatus.resources
